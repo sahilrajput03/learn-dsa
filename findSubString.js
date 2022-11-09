@@ -15,7 +15,7 @@ function matchFound(givenStr, sampleStr) {
 			let s = sample[j]
 			let charMatched = g === s
 			if (charMatched) {
-				const isEnd = j === sample.length - 1
+				let isEnd = j === sample.length - 1
 				if (isEnd) {
 					return i - sample.length + 1
 				} else {
