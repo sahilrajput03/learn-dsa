@@ -124,6 +124,6 @@ async function main() {
 main()
 ```
 
-## *Tree Traversal orders
+## Tree Traversal orders
 
 ![tree-traversal--Geeks-post-order](https://user-images.githubusercontent.com/31458531/200115410-78c65161-4768-441c-86ff-109edd14d8f9.png)
