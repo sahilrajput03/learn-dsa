@@ -1,6 +1,8 @@
+# What O()?
+
+Lovely Answers: [Click here](https://stackoverflow.com/questions/1909307/what-does-on-mean?answertab=scoredesc#tab-top)
 
 # DSA problem solving in JS
-
 
 Input reading libraries: [inquirer](https://github.com/SBoudrias/Inquirer.js), [readline-sync](https://www.npmjs.com/package/readline-sync)
 
