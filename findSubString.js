@@ -1,4 +1,4 @@
-let givenStr = 'abcdef'
+let givenStr = 'abcdcdef'
 let sampleStr1 = 'cde'
 let sampleStr2 = 'cdeZZ'
 
@@ -10,16 +10,17 @@ function matchFound(givenStr, sampleStr) {
 	let sample = sampleStr.split('') // get chars in array
 
 	for (let i = 0; i < given.length; i++) {
+		let iTmp = i
 		for (let j = 0; j < sample.length; j++) {
-			let g = given[i]
-			let s = sample[j]
+			let g = given[iTmp],
+				s = sample[j]
 			let charMatched = g === s
 			if (charMatched) {
 				let isEnd = j === sample.length - 1
 				if (isEnd) {
-					return i - sample.length + 1
+					return iTmp - sample.length + 1
 				} else {
-					i++
+					iTmp++
 				}
 			} else {
 				break
