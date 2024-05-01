@@ -5,7 +5,7 @@
 ## Quick Links:
 
 - **DSA Course notes on Gist: [Click here](https://gist.github.com/sahilrajput03/1298a80f3097a56b6304bffde8853287)**
-- **Learn Algorithms: [Click here](/learn-algorithms.html)**
+- **Learn Algorithms: [Click here](/learn-algorithms.md)**
 
 ## What O()?
 
