@@ -1,12 +1,11 @@
 # Learn DSA
 
-**DSA Motivation:**
+**DSA Motivation: [Click here](https://www.youtube.com/watch?v=vHua-t_8hrA)**
 
-- https://www.youtube.com/watch?v=vHua-t_8hrA
+## Quick Links:
 
-# DSA Course notes on Gist
-
-[Click here](https://gist.github.com/sahilrajput03/1298a80f3097a56b6304bffde8853287)
+- **DSA Course notes on Gist: [Click here](https://gist.github.com/sahilrajput03/1298a80f3097a56b6304bffde8853287)**
+- **Learn Algorithms: [Click here](/learn-algorithms.html)**
 
 ## What O()?
 
