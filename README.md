@@ -6,6 +6,7 @@
 
 - **DSA Course notes on Gist: [Click here](https://gist.github.com/sahilrajput03/1298a80f3097a56b6304bffde8853287)**
 - **Learn Algorithms: [Click here](/learn-algorithms.md)**
+- ❤️ [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 ## What O()?
 
