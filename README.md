@@ -3,7 +3,6 @@
 ## Quick Links:
 
 - **❤️DSA Course notes on Gist: [Click here](https://gist.github.com/sahilrajput03/1298a80f3097a56b6304bffde8853287)**
-- **Learn Algorithms: [Click here](/learn-algorithms.md)**
 - ❤️ [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 - Motivation:
 	- DSA Motivation - I Solved 1583 Leetcode Questions Here's What I Learned | Prime Reacts: [Click here](https://www.youtube.com/watch?v=vHua-t_8hrA)
@@ -37,3 +36,16 @@ Input reading libraries:
 	}
 	main()
 	```
+
+# Datastructures
+
+
+## Data structures
+
+1. Array (also known as list) - We can access items using index i.e, 0, 1 ,2, 3 etc.
+2. Linked list - Similar to Arrays but each item points to next item in the list.
+3. Stack (follows Last in first out principle) - Similar to list, but we use pop to get the last item we pushed to the list.
+4. Queue (folows first in first out pinciple) - Similar to list, but we the first item pushed to array is served first i.e., dequeued.
+5. Hash (also known as Map or Dictionary) - Similar to array, but we use but instead of index we use key names to access the values of each item so this gives us a colleciton of key-value pairs.
+6. Trees (We can have data some nested relation)
+7. Graph - Similar to trees but we can use unlimited number of ways to connect the nodes coz each node can have a edge which defines the relation between data points.
