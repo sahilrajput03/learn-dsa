@@ -1,12 +1,13 @@
 # Learn DSA
 
-**DSA Motivation: [Click here](https://www.youtube.com/watch?v=vHua-t_8hrA)**
-
 ## Quick Links:
 
 - **DSA Course notes on Gist: [Click here](https://gist.github.com/sahilrajput03/1298a80f3097a56b6304bffde8853287)**
 - **Learn Algorithms: [Click here](/learn-algorithms.md)**
 - ❤️ [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+- Motivation:
+	- DSA Motivation - I Solved 1583 Leetcode Questions Here's What I Learned | Prime Reacts: [Click here](https://www.youtube.com/watch?v=vHua-t_8hrA)
+	- [github.com/mihir0699/DSA-Sheet-Solutions](https://github.com/mihir0699/DSA-Sheet-Solutions)
 
 ## What O()?
 
