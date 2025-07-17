@@ -2,7 +2,7 @@
 
 ## Quick Links:
 
-- **❤️My DSA Course Notes on Gist: [Click here](https://gist.github.com/sahilrajput03/1298a80f3097a56b6304bffde8853287)**
+- **❤️My DSA Course Notes on Google Docs: [Click here](https://docs.google.com/document/d/1eUAbu7dzrxU9TGPYUeLneLO5M4pHOdPX1yONV5rKCrk/edit?usp=sharing)**
 - ❤️ [github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) (192k\*)
 - DSA Motivation - I Solved 1583 Leetcode Questions Here's What I Learned | Prime Reacts: [Click here](https://www.youtube.com/watch?v=vHua-t_8hrA)
 - [github.com/mihir0699/DSA-Sheet-Solutions](https://github.com/mihir0699/DSA-Sheet-Solutions)
